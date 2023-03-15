@@ -10,6 +10,7 @@ public class Register extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //hi
+        //test 2
         setContentView(R.layout.activity_register);
     }
 }
