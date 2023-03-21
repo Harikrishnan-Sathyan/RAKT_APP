@@ -22,7 +22,7 @@ public class Login extends AppCompatActivity {
             public void onClick(View v) {
                 Intent i = new Intent(Login.this,Register.class);
                 startActivity(i);
-                Toast.makeText(Login.this, "Loading...", Toast.LENGTH_SHORT).show();
+                Toast.makeText(Login.this, "Loading..", Toast.LENGTH_SHORT).show();
             }
         });
     }
